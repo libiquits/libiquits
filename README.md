@@ -1,6 +1,6 @@
 - 💻 Oi, tudo tranquilo? Eu sou Kauan Batista, Desenvolvedor De Software.
-- 👩🏻‍ Cursando ADS, E à 6 meses aplicando Projetos WEB.
-- 🧗🏼 Estudando JavaScript
+- 👩🏻‍ Buscando a evolução e sabedoria constante.
+- 🧗🏼 Estudando JavaScript e React.js 
 <div align="center">
   <a href="https://github.com/libiquits">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=libiquits&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
