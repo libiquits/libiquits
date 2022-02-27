@@ -2,7 +2,7 @@
 - 🧗🏼 Learning JavaScript e React.js <>/ Estudando JavaScript e React.js.
 - ✍🏻 Contact: libiquits123@gmail.com <>/ Contato.
 
-*Since my infancy i am fissured in tech and computers,
+*Since my childhood i am fissured in tech and computers,
 now i starting my career and i'm totally focused in improve my dev skills.
 
 <div align="center">
