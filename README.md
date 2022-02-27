@@ -1,4 +1,4 @@
-- 💻 Olá, Eu sou Kauan Batista, Desenvolvedor De Software.
+- 💻 Oi, tudo tranquilo? Eu sou Kauan Batista, Desenvolvedor De Software.
 - 👩🏻‍ Cursando ADS, E à 6 meses aplicando Projetos WEB.
 - 🧗🏼 Estudando JavaScript
 <div align="center">
