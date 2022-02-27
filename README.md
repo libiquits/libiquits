@@ -1,6 +1,7 @@
 - 💻 Oi, tudo tranquilo? Eu sou Kauan Batista, Desenvolvedor De Software.
 - 👩🏻‍ Buscando a evolução e sabedoria constante.
 - 🧗🏼 Estudando JavaScript e React.js 
+- ✍🏻 Contact: libiquits123@gmail.com
 
 *Since my infancy i am fissured in tech and computers,
 now i starting my career and i'm totally focused in improve my dev skills.
