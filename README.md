@@ -1,6 +1,6 @@
-- 💻 Hi,how are you my friend? I'm Kauan Batista Software Developer <>/ Oi, tudo tranquilo? Eu sou Kauan Batista, Desenvolvedor De Software.
-- 🧗🏼 Learning JavaScript e React.js <>/ Estudando JavaScript e React.js.
-- ✍🏻 Contact: libiquits123@gmail.com <>/ Contato.
+- 💻 Hi,how are you my dear visitant? I'm Kauan Batista, Problem Solver and Web Developer.
+- 🧗🏼 Learning JavaScript e React.js 
+- ✍🏻 Contact: libiquits123@gmail.com
 
 *Since my childhood i am fissured in tech and computers,
 now i starting my career and i'm totally focused in improve my dev skills.
