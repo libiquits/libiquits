@@ -3,7 +3,7 @@
 - ✍🏻 Contact: libiquits123@gmail.com
 
 *Since my childhood i am fissured in tech and computers,
-now i starting my career and i'm totally focused in improve my dev skills.
+now i starting my career and i'm totally focused on improve my dev skills.
 
 <div align="center">
   <a href="https://github.com/libiquits">
