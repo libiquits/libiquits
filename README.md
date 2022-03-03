@@ -1,5 +1,5 @@
 - 💻 Hi,how are you my dear visitant? I'm Kauan Batista, Problem Solver and Web Developer.
-- 🧗🏼 Learning JavaScript e React.js 
+- 🧗🏼 Learning JavaScript and React.js 
 - ✍🏻 Contact: libiquits123@gmail.com
 
 *Since my childhood i am fissured in tech and computers,
