@@ -1,6 +1,6 @@
 - 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Software Developer.
 - 🧗🏼 Learning JavaScript and React.js 
-- ✍🏻 Contact: libiquits123@gmail.com
+- ✍🏻 Contact: kauanbatista151413@gmail.com
 
 *Since my childhood i am fissured in tech and computers,
 now i starting my career and i'm totally focused on improve my dev skills.
