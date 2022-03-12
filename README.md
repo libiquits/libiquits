@@ -1,4 +1,4 @@
-- 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Web Developer.
+- 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Software Developer.
 - 🧗🏼 Learning JavaScript and React.js 
 - ✍🏻 Contact: libiquits123@gmail.com
 
