@@ -1,7 +1,7 @@
 - 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Software Developer.
 - 🧗🏼 Learning Node.js and React.js 
-- ✍🏻 Contact: kauanbatista151413@gmail.com
-
+- ✍🏻 Contact me: kauanbatista151413@gmail.com
+ 
 *Since my childhood i am fissured in tech and computers,
 now i starting my career and i'm totally focused on improve my dev skills.
 
