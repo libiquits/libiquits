@@ -25,7 +25,6 @@ now i starting my career and i'm totally focused on improve my dev skills.
 ## Social Medias:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/kauan-batista-8082a8208/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//murilofarias10/)](https://github.com/libiquits)
-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
 
   
