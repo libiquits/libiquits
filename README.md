@@ -31,3 +31,8 @@ now i starting my career and i'm totally focused on improve my dev skills.
 
  
 </div>
+ <p align="center">
+
+   ![snake gif](https://github.com/R-Ayush777/R-Ayush777/blob/output/github-contribution-grid-snake.gif)
+
+</p>
