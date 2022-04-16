@@ -1,5 +1,5 @@
 - 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Software Developer.
-- 🧗🏼 Learning Node.js and React.js 
+- 🧗🏼 Learning Node.js and improve my Canvas 
 - ✍🏻 Contact me: kauanbatista151413@gmail.com
  
 *Since my childhood i am fissured in tech and computers,
