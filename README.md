@@ -1,4 +1,4 @@
-- 💻 Hi,how's going on? I'm Kauan Batista, Problem Solver and Software Developer.
+- 💻 Hi,how's going it? I'm Kauan Batista, Problem Solver and Software Developer.
 - 🧗🏼 Improve Forever.
 - 🧠 Focusing on the moment: Type script and Redux
 - ✍🏻 Contact me: kauanbatista151413@gmail.com
