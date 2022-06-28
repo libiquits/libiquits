@@ -33,7 +33,4 @@
 </div>
  <p align="center">
 
-![snake gif](https://github.com/libiquits/blob/output/github-contribution-grid-snake.gif)
 
-
-</p>
