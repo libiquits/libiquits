@@ -33,7 +33,7 @@
 </div>
  <p align="center">
 
-![snake gif](https://github.com/R-Ayush777/R-Ayush777/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/libiquits/blob/output/github-contribution-grid-snake.gif)
 
 
 </p>
